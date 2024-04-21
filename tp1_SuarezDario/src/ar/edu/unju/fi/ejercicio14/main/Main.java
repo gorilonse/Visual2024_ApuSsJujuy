@@ -13,7 +13,7 @@ public class Main {
 		Scanner sc =new Scanner (System.in);
 		System.out.println("*****************");
 		System.out.println("*****************");
-		System.out.println("Definiendo tamñao del Array o Vector");
+		System.out.println("Definiendo tamñao del Array o Arreglo");
 		System.out.println("Ingrese un Numero entero entre 3 y 10");
 		System.out.println("");
 		tamanio=sc.nextInt();
